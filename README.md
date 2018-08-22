@@ -1,4 +1,4 @@
-## How to Report an Issue
+### How to Report an Issue
 
 If you encounter a bug while using the website please report it by [creating a new issue](https://github.com/Margino/report-bugs/issues/new).
 
