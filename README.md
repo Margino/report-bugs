@@ -2,7 +2,7 @@ Report a broken feature on https://petrov.com.ru
 
 ---
 
-<img width="300" alt="Report a broken feature" src="https://user-images.githubusercontent.com/6516714/44492384-f8769580-a66c-11e8-96fd-b1eddb523ffb.png" align="right">
+<img width="300" alt="Report a broken feature" src="https://user-images.githubusercontent.com/6516714/44492466-51462e00-a66d-11e8-886a-a29fd17a54d8.png" align="right">
 
 ### How to Report an Issue
 
